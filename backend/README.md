@@ -275,3 +275,5 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 **Made with ❤️ for educational purposes**
 
 _StudySnap AI Agent - Your intelligent educational companion!_ 🎓✨
+
+study snap ai agent is working for educational purposes only. please do not use it for any commercial or malicious activities. the author is not
